@@ -137,6 +137,11 @@ header .hero-text p {
   font-size: 12px;
 }
 
+#our-offer .our-offer-hover:hover i {
+  -webkit-animation: swing 1.5s;
+          animation: swing 1.5s;
+}
+
 @media (min-width: 414px) {
   #our-offer i {
     margin-top: 34px;
