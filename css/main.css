@@ -36,6 +36,13 @@ body {
   background-color: limegreen;
 }
 
+.scroll-fix::before {
+  content: '';
+  display: block;
+  height: 55px;
+  margin-top: -55px;
+}
+
 nav {
   text-transform: uppercase;
 }
