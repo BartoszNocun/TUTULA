@@ -142,6 +142,11 @@ header .hero-text p {
           animation: swing 1.5s;
 }
 
+#portfolio h2 {
+  text-transform: uppercase;
+  text-align: center;
+}
+
 @media (min-width: 414px) {
   #our-offer i {
     margin-top: 34px;
