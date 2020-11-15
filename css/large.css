@@ -13,4 +13,29 @@ header .hero-text p {
 #our-offer i {
   margin-top: 20px;
 }
+
+#portfolio .carousel-item {
+  position: relative;
+  height: 600px;
+}
+
+#portfolio .carousel-item img {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+
+#portfolio .carousel-caption {
+  background-color: rgba(0, 0, 0, 0.8);
+  position: absolute;
+  left: 0;
+  right: 0;
+  padding: 30px 0;
+}
+
+#portfolio .carousel-indicators {
+  padding-bottom: 10px;
+}
 /*# sourceMappingURL=large.css.map */
