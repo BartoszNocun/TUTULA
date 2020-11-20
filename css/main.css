@@ -151,6 +151,10 @@ header .hero-text p {
   text-align: center;
 }
 
+#about-us p {
+  font-size: 12px;
+}
+
 @media (min-width: 414px) {
   #our-offer i {
     margin-top: 34px;
