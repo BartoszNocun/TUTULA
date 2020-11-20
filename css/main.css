@@ -142,15 +142,6 @@ header .hero-text p {
           animation: swing 1.5s;
 }
 
-#portfolio {
-  margin: 32px 0;
-}
-
-#portfolio h2 {
-  text-transform: uppercase;
-  text-align: center;
-}
-
 #about-us p {
   font-size: 12px;
 }

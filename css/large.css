@@ -14,10 +14,6 @@ header .hero-text p {
   margin-top: 20px;
 }
 
-#portfolio {
-  margin: 48px 0;
-}
-
 #portfolio .carousel-item {
   position: relative;
   height: 600px;
