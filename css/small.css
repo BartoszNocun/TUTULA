@@ -1,4 +1,12 @@
 #about-us p {
   font-size: 14px;
 }
+
+#contact-us p {
+  font-size: 14px;
+}
+
+#contact-us .contactDetails address {
+  font-size: 14px;
+}
 /*# sourceMappingURL=small.css.map */

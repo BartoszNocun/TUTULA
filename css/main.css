@@ -146,6 +146,37 @@ header .hero-text p {
   font-size: 12px;
 }
 
+#contact-us p {
+  font-size: 12px;
+}
+
+#contact-us .contactDetails {
+  margin-top: 30px;
+  text-align: center;
+}
+
+#contact-us .contactDetails address {
+  font-size: 14px;
+}
+
+#contact-us .social-media {
+  text-align: center;
+  margin: 20px 0;
+}
+
+#contact-us .social-media a {
+  color: #333333;
+}
+
+#contact-us .social-media a i {
+  font-size: 20px;
+  margin: 0 10px;
+}
+
+#contact-us .social-media a:hover {
+  color: limegreen;
+}
+
 @media (min-width: 414px) {
   #our-offer i {
     margin-top: 34px;
