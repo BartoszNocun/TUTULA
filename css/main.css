@@ -190,6 +190,16 @@ header .hero-text p {
   color: limegreen;
 }
 
+footer {
+  background-color: #e9ecef;
+}
+
+footer p {
+  padding: 24px;
+  margin-bottom: 0;
+  text-align: center;
+}
+
 @media (min-width: 414px) {
   #our-offer i {
     margin-top: 34px;
