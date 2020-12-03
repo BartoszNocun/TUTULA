@@ -179,6 +179,8 @@ header .hero-text p {
 
 #contact-us .social-media a {
   color: #333333;
+  -webkit-transition: color .3s;
+  transition: color .3s;
 }
 
 #contact-us .social-media a i {
