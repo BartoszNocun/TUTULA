@@ -1,4 +1,4 @@
-# TUTULA -Simple one page website.
+# TUTULA - Simple one page website.
 Click on this link to check the page - https://bartosznocun.github.io/TUTULA/
 
 ## General info
